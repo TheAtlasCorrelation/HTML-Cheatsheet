@@ -1,8 +1,16 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: gainsboro;
+* {
+    padding-left: 10%;
+    background-color: #0c0131;
+    color: white;
+    
 }
-body {
+.body {
     display: block;
     margin: 8px;
+}
+.header {
+    background-color: rgb(20, 20, 79);
+}
+.code {
+        background-color: rgb(20, 20, 79);
 }
