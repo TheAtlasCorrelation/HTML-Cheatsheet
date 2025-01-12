@@ -2,13 +2,12 @@
     padding-left: 15%;
     background-color: #0c0131;
     color: white;
-    font-family: monospace;
-    
+    text-align: center;    
 }
 .header {
     background-color: rgb(20, 20, 79);
 }
 .code {
-        background-color: rgb(20, 20, 79);
-        font-weight: bold;
+    background-color: rgb(20, 20, 79);
+    font-weight: bold;
 }
